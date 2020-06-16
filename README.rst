@@ -1,41 +1,33 @@
-Template
+Hydrogen API
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+Hydrogen API allows you to access inside info on hydrogen bot.
 
-Look how easy it is to use:
+RateLimit
+---------
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
+We currently allows 60 requests per 60 minutes
 
 Features
 --------
 
-- Be awesome
-- Make things faster
-
-Installation
-------------
-
-Install $project by running:
-
-    install project
+- Authorize
+- Prefix
+- Botinfo
+- Guildinfo
+- Userinfo
 
 Contribute
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+Contribution currently unavailable
 
 Support
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+If you are having issues, please let us know in our `Discord Support Server <https://discord.gg/SNNS24r>`_
 
 License
 -------
 
-The project is licensed under the BSD license.
+The project is licensed under theApache-2.0 license.
